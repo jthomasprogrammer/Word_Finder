@@ -4,4 +4,4 @@ InvertedIndex solution to the mega project list done in Java. GUI elements are d
 
 Find a word(s) in a set of text files.
 
-Screenshots: http://www.averageprogrammer.com/wp-content/uploads/2013/11/wordfinder2.png
+Screenshots: http://www.averageprogrammer.com/images/wordfinder2.png
